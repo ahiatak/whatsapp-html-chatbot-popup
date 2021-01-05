@@ -1,3 +1,3 @@
 # whatsapp-html-chatbot-popup
 
-![Capture](https://github.com/ahiatak/whatsapp-html-chatbot-popup/blob/master/capture.jpg)
+![Capture](https://github.com/ahiatak/whatsapp-html-chatbot-popup/blob/master/capture.png)
